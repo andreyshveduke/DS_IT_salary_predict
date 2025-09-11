@@ -1,0 +1,80 @@
+{
+  "full_name": "Иванов Иван Иванович",
+  "position": "Python Developer",
+  "salary_from": 150000,
+  "salary_to": 200000,
+  "currency": "RUB",
+  "city": "Москва",
+  "country": "Россия",
+  "email": "ivanov@example.com",
+  "phone": "+7 999 123-45-67",
+  "age": 29,
+  "gender": "мужской",
+  "citizenship": "Россия",
+  "relocation": true,
+  "travel_ready": true,
+  "work_schedule": "полный день",
+  "employment": "полная занятость",
+  "education_level": "высшее",
+  "education": [
+    {
+      "institution": "МГУ им. Ломоносова",
+      "faculty": "Факультет ВМК",
+      "degree": "Бакалавр",
+      "graduation_year": "2018"
+    }
+  ],
+  "experience_years": 5,
+  "experience": [
+    {
+      "company": "ООО Рога и Копыта",
+      "position": "Junior Python Developer",
+      "start_date": "2018-07",
+      "end_date": "2020-05",
+      "description": "Разработка веб-приложений на Django, написание unit-тестов"
+    },
+    {
+      "company": "ООО ПрогрессСофт",
+      "position": "Middle Python Developer",
+      "start_date": "2020-06",
+      "end_date": "2023-10",
+      "description": "Создание микросервисов, интеграция с PostgreSQL и Redis"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Английский",
+      "level": "B2"
+    },
+    {
+      "language": "Русский",
+      "level": "родной"
+    }
+  ],
+  "skills": [
+    "Python",
+    "Django",
+    "Flask",
+    "SQL",
+    "PostgreSQL",
+    "Redis",
+    "Docker",
+    "Git"
+  ],
+  "certifications": [
+    "Python Institute PCEP",
+    "AWS Cloud Practitioner"
+  ],
+  "achievements": [
+    "Автоматизация CI/CD процессов в команде",
+    "Оптимизация производительности сервиса на 40%"
+  ],
+  "summary": "Опытный разработчик с фокусом на backend, умею быстро адаптироваться к новым технологиям.",
+  "portfolio_links": [
+    "https://github.com/ivanov",
+    "https://ivanov.dev"
+  ],
+  "linkedin": "https://linkedin.com/in/ivanov",
+  "github": "https://github.com/ivanov",
+  "other_links": []
+}
